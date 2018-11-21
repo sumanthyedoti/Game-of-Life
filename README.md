@@ -1,5 +1,5 @@
 # Game-of-Life
-Developed Conway's Game of Life program using unit testing with mocha - chai
+Developed Conway's Game of Life program with unit testing using mocha - chai
 
 conditions
 -------------
