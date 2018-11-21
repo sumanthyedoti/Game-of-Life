@@ -1,5 +1,7 @@
 # Game-of-Life
-Developed Conway's Game of Life program with unit testing using mocha - chai
+Developed Conway's Game of Life program with unit testing using mocha - chai.
+
+site: https://y-sumanth.github.io/Game-of-Life/
 
 conditions
 -------------
